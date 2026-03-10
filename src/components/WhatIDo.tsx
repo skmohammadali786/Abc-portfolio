@@ -87,22 +87,22 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>FULL STACK & IoT</h3>
+              <h4>Bridging Hardware & Software</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Building robust Full-Stack applications and integrating hardware via IoT.
+                From responsive interfaces to embedded systems and SaaS platforms.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
+                <div className="what-tags">IoT Development</div>
+                <div className="what-tags">SaaS</div>
+                <div className="what-tags">Web Development</div>
+                <div className="what-tags">Project Management</div>
+                <div className="what-tags">C/C++</div>
+                <div className="what-tags">Microcontrollers</div>
                 <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Node.js</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +126,22 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>LEADERSHIP & MANAGEMENT</h3>
+              <h4>Driving Projects to Success</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Overseeing the entire lifecycle of technical projects and organizing large-scale
+                engineering events with effective communication and critical thinking.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">Leadership</div>
+                <div className="what-tags">Public Speaking</div>
+                <div className="what-tags">Communication</div>
+                <div className="what-tags">Critical Thinking</div>
+                <div className="what-tags">Event Management</div>
+                <div className="what-tags">Creativity</div>
+                <div className="what-tags">Problem Solving</div>
+                <div className="what-tags">Agile</div>
               </div>
               <div className="what-arrow"></div>
             </div>
